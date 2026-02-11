@@ -1,0 +1,4 @@
+Ethereum is a blockchain-based software, making that runs on a bunch of nodes
+
+When we connect to Ethereum network, we're actually connecting to one of the nodes, and we can do this by various gateways.
+And cloudflare is actually one of those gateways which allows users to connect to a node 
